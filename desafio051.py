@@ -3,6 +3,8 @@
 # progressão.
 primeiro = int(input('Informe o primeiro termo da P.A.: '))
 razao = int(input('Informe a razão da P.A.: '))
+decimoprimeiro = primeiro + (10 * razao)
 print('\nOs 10 primeiros termos da P.A. são:\n')
-for c in range(0, 10):
-    print(primeiro + (c * razao))
+for c in range(primeiro, decimoprimeiro, razao):
+    print(c, end=' → ')
+print('FIM')

@@ -1,11 +1,14 @@
 # Faça um programa que leia um número inteiro e diga se ele é ou não
 # um número primo.
-num = int(input('Informe um número inteiro: '))
+num = int(input('Digite um número inteiro: '))
 divisor = 0
 for c in range(1, num + 1):
     if num % c == 0:
+        print(f'\033[34m{c}\033[m', end=' ')
         divisor = divisor + 1
+    else:
+        print(f'\033[31m{c}\033[m', end=' ')
 if divisor == 2:
-    print('O número informado é PRIMO!')
+    print(f'\nO número {num} é PRIMO!')
 else:
-    print('O número informado NÃO é PRIMO!')
+    print(f'\nO número {num} NÃO é PRIMO!')
