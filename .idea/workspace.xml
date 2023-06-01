@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios resolvidos até o 063">
+    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios resolvidos até o 065">
+      <change afterPath="$PROJECT_DIR$/desafio066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio071.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio064.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio064.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio065.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio065.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,15 +52,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/migue/PycharmProjects/pythondesafios&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/migue/PycharmProjects/pythondesafios",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.desafio065">
     <configuration name="desafio061" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondesafios" />
@@ -259,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684801594697</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Desafios resolvidos até o 065">
+      <created>1684983299035</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684983299035</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,6 +297,7 @@
     <MESSAGE value="Desafios resolvidos até o 056" />
     <MESSAGE value="Desafios adicionados até o 065" />
     <MESSAGE value="Desafios resolvidos até o 063" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafios resolvidos até o 063" />
+    <MESSAGE value="Desafios resolvidos até o 065" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafios resolvidos até o 065" />
   </component>
 </project>
