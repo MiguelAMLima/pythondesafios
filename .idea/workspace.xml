@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios resolvidos até o 065">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythondesafios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythondesafios.iml" afterDir="false" />
+    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios resolvidos até o 068">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio066.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio066.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio067.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio067.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/desafio068.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio068.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -270,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684983299035</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Desafios resolvidos até o 068">
+      <created>1687439193431</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687439193431</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,6 +302,7 @@
     <MESSAGE value="Desafios adicionados até o 065" />
     <MESSAGE value="Desafios resolvidos até o 063" />
     <MESSAGE value="Desafios resolvidos até o 065" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafios resolvidos até o 065" />
+    <MESSAGE value="Desafios resolvidos até o 068" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafios resolvidos até o 068" />
   </component>
 </project>
