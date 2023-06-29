@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios resolvidos até o 068">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythondesafios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythondesafios.iml" afterDir="false" />
+    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios resolvidos até o 071">
+      <change afterPath="$PROJECT_DIR$/desafio072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio077.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio069.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio069.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio070.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio070.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio071.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio071.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,16 +53,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/migue/PycharmProjects/pythondesafios&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/migue/PycharmProjects/pythondesafios",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.desafio071">
     <configuration name="desafio067" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondesafios" />
@@ -278,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687439193431</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Desafios resolvidos até o 071">
+      <option name="closed" value="true" />
+      <created>1687924241918</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1687924241918</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,6 +316,7 @@
     <MESSAGE value="Desafios resolvidos até o 063" />
     <MESSAGE value="Desafios resolvidos até o 065" />
     <MESSAGE value="Desafios resolvidos até o 068" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafios resolvidos até o 068" />
+    <MESSAGE value="Desafios resolvidos até o 071" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafios resolvidos até o 071" />
   </component>
 </project>
