@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafio 72 resolvido">
+    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafio 73 resolvido">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio073.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio073.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio074.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio074.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695528441187</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Desafio 73 resolvido">
+      <option name="closed" value="true" />
+      <created>1695767706185</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1695767706185</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,6 +338,7 @@
     <MESSAGE value="Desafios resolvidos até o 071" />
     <MESSAGE value="Desafios adicionados até o 077" />
     <MESSAGE value="Desafio 72 resolvido" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio 72 resolvido" />
+    <MESSAGE value="Desafio 73 resolvido" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio 73 resolvido" />
   </component>
 </project>
