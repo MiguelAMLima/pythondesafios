@@ -15,4 +15,4 @@ while repetir == 'S':
     print(f'O número {num} por extenso é: {extenso[num]}')
     repetir = input('Deseja ver outro número? [S/N] ').upper()[0]
 print('-=' * 16)
-print('Programa encerrado.')
+print('Programa finalizado.')

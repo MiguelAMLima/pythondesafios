@@ -17,7 +17,7 @@ print(f"\n{'Últimos 4 colocados:':^58}")
 for cont in range(16, 20):
     print(f'{cont + 1}º -> {CBF[cont]}')
 print(f"\n{'Times em ordem alfabética:':^58}")
-alfa = sorted(CBF)
-for time in alfa:
+alfabet = sorted(CBF)
+for time in alfabet:
     print(time)
 print(f"\nO time do São Paulo está na {CBF.index('São Paulo') + 1}ª posição.")

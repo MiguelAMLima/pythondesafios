@@ -4,6 +4,6 @@
 from random import randint
 num = (randint(1, 1000), randint(1, 1000), randint(1, 1000),
        randint(1, 1000), randint(1, 1000))
-print(f'Números gerados aleatoriamente: {num}'
+print(f'Valores gerados aleatoriamente: {num}'
       f'\nO maior valor da lista é: {max(num)}'
       f'\nO menor valor da lista é: {min(num)}')
