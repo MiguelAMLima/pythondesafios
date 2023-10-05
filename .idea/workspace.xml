@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafio 74 resolvido">
+    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios resolvidos até o 077">
+      <change afterPath="$PROJECT_DIR$/desafio078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio083.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio075.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio075.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio076.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio076.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio077.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio077.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +63,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.desafio075">
+  <component name="RunManager" selected="Python.desafio074">
     <configuration name="desafio073" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondesafios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,10 +171,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio074" />
         <item itemvalue="Python.desafio075" />
         <item itemvalue="Python.desafio077" />
         <item itemvalue="Python.desafio076" />
-        <item itemvalue="Python.desafio074" />
         <item itemvalue="Python.desafio073" />
       </list>
     </recent_temporary>
@@ -316,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695782247958</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Desafios resolvidos até o 077">
+      <option name="closed" value="true" />
+      <created>1696220153504</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1696220153504</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -350,6 +361,7 @@
     <MESSAGE value="Desafio 72 resolvido" />
     <MESSAGE value="Desafio 73 resolvido" />
     <MESSAGE value="Desafio 74 resolvido" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio 74 resolvido" />
+    <MESSAGE value="Desafios resolvidos até o 077" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafios resolvidos até o 077" />
   </component>
 </project>
