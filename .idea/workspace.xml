@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios resolvidos até o 079">
+    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios resolvidos até o 083">
+      <change afterPath="$PROJECT_DIR$/desafio084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio089.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio082.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio082.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio083.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio083.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,21 +27,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="c511326c-b26d-4ebc-999f-fe5eda4549bc" />
-        <option name="url" value="https://github.com/MiguelAMLima/pythondesafios.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MiguelAMLima/pythondesafios.git&quot;,
+    &quot;accountId&quot;: &quot;b5018c59-277d-4789-aee1-0629e0e0c8e3&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -61,7 +62,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Miguel Lima/PycharmProjects/pythonaulas",
+    "last_opened_file_path": "C:/Users/Miguel Lima/PycharmProjects/pythondesafios",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -349,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700262831302</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Desafios resolvidos até o 083">
+      <option name="closed" value="true" />
+      <created>1719961067381</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1719961067381</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -385,6 +394,7 @@
     <MESSAGE value="Desafio 74 resolvido" />
     <MESSAGE value="Desafios resolvidos até o 077" />
     <MESSAGE value="Desafios resolvidos até o 079" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafios resolvidos até o 079" />
+    <MESSAGE value="Desafios resolvidos até o 083" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafios resolvidos até o 083" />
   </component>
 </project>
