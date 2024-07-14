@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios resolvidos até o 086">
+    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios resolvidos até o 089">
+      <change afterPath="$PROJECT_DIR$/desafio090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio095.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio087.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio087.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio088.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio088.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio089.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio089.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +68,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Miguel Lima/PycharmProjects/pythonaulas",
+    "last_opened_file_path": "C:/Users/Miguel Lima/PycharmProjects/pythondesafios",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -377,7 +380,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720581838677</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Desafios resolvidos até o 089">
+      <option name="closed" value="true" />
+      <created>1720670410921</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1720670410921</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,6 +427,7 @@
     <MESSAGE value="Desafios resolvidos até o 083" />
     <MESSAGE value="Desafios adicionados até o 089" />
     <MESSAGE value="Desafios resolvidos até o 086" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafios resolvidos até o 086" />
+    <MESSAGE value="Desafios resolvidos até o 089" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafios resolvidos até o 089" />
   </component>
 </project>
