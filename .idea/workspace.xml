@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios resolvidos até o 095">
-      <change afterPath="$PROJECT_DIR$/desafio096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio100.py" afterDir="false" />
+    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios adicionados até o 100">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio096.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio096.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio097.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio097.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio098.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio098.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio099.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio099.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio100.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio100.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +69,11 @@
     "Python.desafio093.executor": "Run",
     "Python.desafio094.executor": "Run",
     "Python.desafio095.executor": "Run",
+    "Python.desafio096.executor": "Run",
+    "Python.desafio097.executor": "Run",
+    "Python.desafio098.executor": "Run",
+    "Python.desafio099.executor": "Run",
+    "Python.desafio100.executor": "Run",
     "Python.main.executor": "Run",
     "Python.review.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -79,8 +84,8 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="desafio092" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.desafio100">
+    <configuration name="desafio096" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondesafios" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio092.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio096.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio093" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio097" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondesafios" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio093.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio097.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio094" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio098" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondesafios" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio094.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio098.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio095" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio099" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondesafios" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,7 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio095.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio099.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondesafios" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,7 +186,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.desafio095" />
-        <item itemvalue="Python.desafio094" />
-        <item itemvalue="Python.desafio093" />
-        <item itemvalue="Python.desafio092" />
+        <item itemvalue="Python.desafio100" />
+        <item itemvalue="Python.desafio099" />
+        <item itemvalue="Python.desafio098" />
+        <item itemvalue="Python.desafio097" />
+        <item itemvalue="Python.desafio096" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +416,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785033040384</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Desafios adicionados até o 100">
+      <option name="closed" value="true" />
+      <created>1790002865311</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1790002865311</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -427,7 +440,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Desafios adicionados" />
     <MESSAGE value="Desafios resolvidos até o 037" />
     <MESSAGE value="Desafios resolvidos até o 040" />
     <MESSAGE value="Desafios resolvidos até o 043" />
@@ -452,6 +464,7 @@
     <MESSAGE value="Desafios resolvidos até o 089" />
     <MESSAGE value="Desafios adicionados até o 095" />
     <MESSAGE value="Desafios resolvidos até o 095" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafios resolvidos até o 095" />
+    <MESSAGE value="Desafios adicionados até o 100" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafios adicionados até o 100" />
   </component>
 </project>
