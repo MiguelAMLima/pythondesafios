@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios resolvidos até o 100">
-      <change afterPath="$PROJECT_DIR$/desafio101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio102.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio106.py" afterDir="false" />
+    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios adicionados até o 106">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio101.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio101.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio102.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio102.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio103.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio103.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio104.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio104.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio105.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio105.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio106.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio106.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +75,12 @@
     "Python.desafio098.executor": "Run",
     "Python.desafio099.executor": "Run",
     "Python.desafio100.executor": "Run",
+    "Python.desafio101.executor": "Run",
+    "Python.desafio102.executor": "Run",
+    "Python.desafio103.executor": "Run",
+    "Python.desafio104.executor": "Run",
+    "Python.desafio105.executor": "Run",
+    "Python.desafio106.executor": "Run",
     "Python.main.executor": "Run",
     "Python.review.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -94,8 +100,8 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.desafio100">
-    <configuration name="desafio096" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.desafio106">
+    <configuration name="desafio102" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondesafios" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,9 +114,9 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio096.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio102.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio097" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio103" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondesafios" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,9 +138,9 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio097.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio103.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio098" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio104" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondesafios" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,9 +162,9 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio098.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio104.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio099" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio105" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondesafios" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,9 +186,9 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio099.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio105.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio106" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondesafios" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,9 +210,9 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio100.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio106.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio100" />
-        <item itemvalue="Python.desafio099" />
-        <item itemvalue="Python.desafio098" />
-        <item itemvalue="Python.desafio097" />
-        <item itemvalue="Python.desafio096" />
+        <item itemvalue="Python.desafio106" />
+        <item itemvalue="Python.desafio105" />
+        <item itemvalue="Python.desafio104" />
+        <item itemvalue="Python.desafio103" />
+        <item itemvalue="Python.desafio102" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +458,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790640520691</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Desafios adicionados até o 106">
+      <option name="closed" value="true" />
+      <created>1790731918726</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1790731918726</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,7 +485,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Desafios resolvidos até o 040" />
     <MESSAGE value="Desafios resolvidos até o 043" />
     <MESSAGE value="Desafios resolvidos até o 045" />
     <MESSAGE value="Desafios da aula 13 adicionados" />
@@ -496,6 +509,7 @@
     <MESSAGE value="Desafios resolvidos até o 095" />
     <MESSAGE value="Desafios adicionados até o 100" />
     <MESSAGE value="Desafios resolvidos até o 100" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafios resolvidos até o 100" />
+    <MESSAGE value="Desafios adicionados até o 106" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafios adicionados até o 106" />
   </component>
 </project>
