@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios adicionados até o 106">
+    <list default="true" id="6c8b9acb-6ac1-4475-9a76-df07543ea938" name="Changes" comment="Desafios resolvidos até o 106">
+      <change afterPath="$PROJECT_DIR$/desafio107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio112.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio101.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio101.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio102.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio102.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio103.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio103.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio104.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio104.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio105.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio105.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio106.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio106.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,53 +53,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.desafio081.executor": "Run",
-    "Python.desafio082.executor": "Run",
-    "Python.desafio083.executor": "Run",
-    "Python.desafio084.executor": "Run",
-    "Python.desafio085.executor": "Run",
-    "Python.desafio086.executor": "Run",
-    "Python.desafio087.executor": "Run",
-    "Python.desafio088.executor": "Run",
-    "Python.desafio089.executor": "Run",
-    "Python.desafio090.executor": "Run",
-    "Python.desafio091.executor": "Run",
-    "Python.desafio092.executor": "Run",
-    "Python.desafio093.executor": "Run",
-    "Python.desafio094.executor": "Run",
-    "Python.desafio095.executor": "Run",
-    "Python.desafio096.executor": "Run",
-    "Python.desafio097.executor": "Run",
-    "Python.desafio098.executor": "Run",
-    "Python.desafio099.executor": "Run",
-    "Python.desafio100.executor": "Run",
-    "Python.desafio101.executor": "Run",
-    "Python.desafio102.executor": "Run",
-    "Python.desafio103.executor": "Run",
-    "Python.desafio104.executor": "Run",
-    "Python.desafio105.executor": "Run",
-    "Python.desafio106.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.review.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Miguel Lima/PycharmProjects/pythondesafios",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.desafio081.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio082.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio083.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio084.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio085.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio086.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio087.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio088.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio089.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio090.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio091.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio092.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio093.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio094.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio095.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio096.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio097.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio098.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio099.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio100.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio101.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio102.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio103.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio104.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio105.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio106.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.review.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Miguel Lima/PycharmProjects/pythondesafios&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.desafio106">
     <configuration name="desafio102" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondesafios" />
@@ -466,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790731918726</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Desafios resolvidos até o 106">
+      <option name="closed" value="true" />
+      <created>1790807978165</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1790807978165</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,7 +493,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Desafios resolvidos até o 043" />
     <MESSAGE value="Desafios resolvidos até o 045" />
     <MESSAGE value="Desafios da aula 13 adicionados" />
     <MESSAGE value="Desafios resolvidos até o 053" />
@@ -510,6 +517,7 @@
     <MESSAGE value="Desafios adicionados até o 100" />
     <MESSAGE value="Desafios resolvidos até o 100" />
     <MESSAGE value="Desafios adicionados até o 106" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafios adicionados até o 106" />
+    <MESSAGE value="Desafios resolvidos até o 106" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafios resolvidos até o 106" />
   </component>
 </project>
